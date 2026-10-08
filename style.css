@@ -1,0 +1,17 @@
+/* crear estilo para la tarjeta */
+/* se podria poner directo en el html class="card"*/
+.card{
+width: 160px;
+padding: 15px;
+margin: 20px;
+text-align: center;
+background-color: rgb(2, 2, 36);
+color: beige;
+border-radius: 8px;
+border: 2px solid red;
+box-shadow: 10px 10px 10px darkslategrey;
+}
+
+img{
+    width: 100%;
+}
